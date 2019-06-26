@@ -186,6 +186,5 @@ b. On the other hand,strengthening field research and finding factors affecting 
  [https://pro.arcgis.com/zh-cn/pro-app/arcpy/get-started/installing-python-for-arcgis-pro.htm]
  
 ### Author information
- * Name: ZHOU Yimin 
- * Student ID: 18087325g
+ * Name: zhoumaneo
  * Resource: [https://github.com/zhoumaneo/Contribution_of_The_Urban_Forest_to_Noise_Control_Based_NYC]
