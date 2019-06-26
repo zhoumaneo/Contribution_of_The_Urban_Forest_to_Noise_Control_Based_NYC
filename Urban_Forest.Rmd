@@ -95,8 +95,9 @@ This part do spatial visualization by ggmap.
 library(ggmap)
 ```
 
+get your own key https://console.cloud.google.com/google/maps-apis/
 ```{r}
-register_google(key = "AIzaSyAyOO4AEwdix6AUkEY_-KXcphYUXnvpGHk")
+register_google(key = "{your google key}")
 ```
 
 ```{r}
